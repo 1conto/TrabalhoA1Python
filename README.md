@@ -1,0 +1,2 @@
+# TrabalhoA1Python
+ Trabalho para ser enviado para o Robaina. Acho que vou começar a fazer outras análises referentes a essa tabela. Além de um ótimo início de projeto, acredito que consigo pegar aproveitamento dos times, em vitórias/jogos, derrotas/jogos. Infelizmente, fiquei com um certo nível de preguiça de fazer tudo nesse projeto, visto que comecei muito atrasado pra fazer esse projeto. Mas acho que consigo melhorar em outros arquivos.
